@@ -1,8 +1,8 @@
 {
   "name": "travel-planner",
   "version": "1.0.0",
-  "description": "A React app to generate personalized travel itineraries.",
   "private": true,
+  "description": "A React app to generate personalized travel itineraries.",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -14,10 +14,17 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1"
   },
+  "keywords": [
+    "react",
+    "travel",
+    "planner",
+    "itinerary"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "homepage": ".",
   "repository": {
     "type": "git",
     "url": "https://github.com/yourusername/travel-planner.git"
-  },
-  "author": "Your Name",
-  "license": "MIT"
+  }
 }
