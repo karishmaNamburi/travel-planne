@@ -10,21 +10,22 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
-  "react-scripts": "5.0.1",
-  "react": "...",
-  "react-dom": "..."
-},
+    "react-scripts": "5.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
   "keywords": [
     "react",
     "travel",
     "planner",
     "itinerary"
   ],
-  "author": "Your Name",
+  "author": "Karishma Namburi",
   "license": "MIT",
   "homepage": ".",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/travel-planner.git"
+    "url": "https://github.com/karishmaNamburi"
   }
 }
+
